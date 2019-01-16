@@ -2,4 +2,4 @@
 
 The writeup for this project can be found at the file **writeup_report.md**.
 
-The code used in this proyect is located at the **Model.py** file.
+The code used in this proyect is located at the **model.py** and **drive.py** scripts.
