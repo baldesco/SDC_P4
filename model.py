@@ -23,7 +23,7 @@ augment_data = True
 correction_angle = 0.2
 
 # Read csv file with the paths of the image files and their corresponding steering angles
-files_path = 'E:/Eduardo/SDC ND/Proyectos/behavioral clonning/my data/'
+files_path = '../my data/'
 logs = pd.read_csv(files_path + 'driving_log.csv',header=None)
 logs.columns = ['center_img','left_img','right_img','angle','throttle','break','speed']
 
